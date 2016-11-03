@@ -1,0 +1,135 @@
+﻿@model Assignment4.Controllers.InvoiceWithDetail
+
+@{
+    ViewBag.Title = "Invoice details";
+}
+
+<h2>Invoice details</h2>
+
+<div>
+    <h4>Invoice and customer information</h4>
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InvoiceId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InvoiceId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InvoiceDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InvoiceDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+    </dl>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CustomerId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerFirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CustomerFirstName)
+            @Html.DisplayFor(model => model.CustomerLastName)
+            
+        </dd>
+        <dt>
+            
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CustomerCity), 
+            @Html.DisplayFor(model => model.CustomerState)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerEmployeeFirstname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CustomerEmployeeFirstname) 
+            @Html.DisplayFor(model => model.CustomerEmployeeLastname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BillingAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BillingAddress)
+        </dd>
+        <dt>
+            
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BillingCity), 
+            @Html.DisplayFor(model => model.BillingState), 
+            @Html.DisplayFor(model => model.BillingCountry)
+        </dd>
+        <dt>
+
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BillingPostalCode)
+        </dd>
+    </dl>
+    <h4>Line item detail</h4>
+
+    <table class="table table-striped">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.InvoiceLines.First().InvoiceLineId)</th>
+            <th>@Html.DisplayNameFor(model => model.InvoiceLines.First().TrackId)</th>
+            <th>@Html.DisplayNameFor(model => model.InvoiceLines.First().TrackName), 
+                @Html.DisplayNameFor(model => model.InvoiceLines.First().TrackAlbumArtistName)</th>
+            <th>@Html.DisplayNameFor(model => model.InvoiceLines.First().TrackAlbumTitle), 
+                @Html.DisplayNameFor(model => model.InvoiceLines.First().TrackComposer)</th>
+            <th>@Html.DisplayNameFor(model => model.InvoiceLines.First().UnitPrice)</th>
+            <th>@Html.DisplayNameFor(model => model.InvoiceLines.First().Quantity)</th>
+            <th>@Html.DisplayNameFor(model => model.InvoiceLines.First().ItemTotal)</th>
+        </tr>
+        @foreach (var item in Model.InvoiceLines)
+        {
+            <tr>
+                <td>@Html.DisplayFor(i => item.InvoiceLineId)</td>
+                <td>@Html.DisplayFor(i => item.TrackId)</td>
+                <td>@Html.DisplayFor(i => item.TrackName) <br />
+                    by @Html.DisplayFor(i => item.TrackAlbumArtistName)</td>
+                <td>@Html.DisplayNameFor(i => item.TrackAlbumTitle):
+                    @Html.DisplayFor(i => item.TrackAlbumTitle)<br />
+                    @Html.DisplayNameFor(i => item.TrackComposer):
+                    @Html.DisplayFor(i => item.TrackComposer)<br />
+                    @Html.DisplayNameFor(i => item.TrackMediaTypeName):
+                    @Html.DisplayFor(i => item.TrackMediaTypeName)</td>
+                <td>@Html.DisplayFor(i => item.UnitPrice)</td>
+                <td>@Html.DisplayFor(i => item.Quantity)</td>
+                <td>@Html.DisplayFor(i => item.ItemTotal)</td>
+            </tr>
+        }
+    </table>
+
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

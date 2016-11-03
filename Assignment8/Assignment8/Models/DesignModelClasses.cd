@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Assignment8.Models.Album">
+    <Position X="2" Y="0.5" Width="2" />
+    <AssociationLine Name="Tracks" Type="Assignment8.Models.Track">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.068" Y="0.383" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAEAIAAAAAEIAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\DesignModelClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Tracks" />
+      <Property Name="Artists" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Assignment8.Models.Artist">
+    <Position X="6.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAADAAAAQAIAAAQIAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Models\DesignModelClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Albums" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Assignment8.Models.Track">
+    <Position X="2" Y="4.25" Width="1.75" />
+    <AssociationLine Name="Albums" Type="Assignment8.Models.Album">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.984" Y="0.466" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAACEQAAAA=</HashCode>
+      <FileName>Models\DesignModelClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Albums" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Assignment8.Models.Genre">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DesignModelClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

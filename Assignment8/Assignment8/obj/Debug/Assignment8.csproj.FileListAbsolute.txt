@@ -1,0 +1,175 @@
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\csc.exe
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\csc.exe.config
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\csc.rsp
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\csi.exe
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\csi.rsp
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\System.AppContext.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\System.Console.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\vbc.exe
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\vbc.exe.config
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\vbc.rsp
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\VBCSCompiler.exe
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Assignment8.dll.config
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Assignment8.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Assignment8.pdb
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Antlr3.Runtime.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\AutoMapper.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\EntityFramework.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\EntityFramework.SqlServer.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Newtonsoft.Json.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Owin.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.Helpers.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.Mvc.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.Optimization.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.Razor.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.WebPages.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.WebPages.Razor.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\WebGrease.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Antlr3.Runtime.pdb
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\AutoMapper.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Newtonsoft.Json.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.Helpers.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.Mvc.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.Optimization.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.Razor.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.WebPages.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\System.Web.WebPages.Razor.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\EntityFramework.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\EntityFramework.SqlServer.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\klee161\Desktop\Assignment8\Assignment8\obj\Debug\Assignment8.csprojResolveAssemblyReference.cache
+C:\Users\klee161\Desktop\Assignment8\Assignment8\obj\Debug\Assignment8.dll
+C:\Users\klee161\Desktop\Assignment8\Assignment8\obj\Debug\Assignment8.pdb
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\obj\Debug\Assignment8.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\obj\Debug\Assignment8.pdb
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\csc.exe
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\csc.exe.config
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\csc.rsp
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\csi.exe
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\csi.rsp
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\System.AppContext.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\System.Console.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\vbc.exe
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\vbc.exe.config
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\vbc.rsp
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Assignment8.dll.config
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Assignment8.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Assignment8.pdb
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Antlr3.Runtime.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\AutoMapper.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\EntityFramework.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Newtonsoft.Json.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Owin.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.Helpers.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.Mvc.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.Optimization.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.Razor.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.WebPages.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\WebGrease.dll
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Antlr3.Runtime.pdb
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\AutoMapper.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Newtonsoft.Json.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.Helpers.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.Mvc.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.Optimization.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.Razor.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.WebPages.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\EntityFramework.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\EntityFramework.SqlServer.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\obj\Debug\Assignment8.Migrations.InitialCreate.resources
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.GenerateResource.Cache
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\obj\Debug\Assignment8.Migrations.updatedb.resources
+C:\Users\Kevin\Google Drive\Seneca\INT422\Assignment\Assignment8\Assignment8\obj\Debug\Assignment8.csprojResolveAssemblyReference.cache

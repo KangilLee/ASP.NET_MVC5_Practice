@@ -1,0 +1,104 @@
+﻿@model Assignment8.Controllers.AlbumWithDetail
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details - @Html.DisplayFor(model => model.Name)</h2>
+
+<div>
+    <h4>Album details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrlAlbum)
+        </dt>
+
+        <dd>
+            <a href="@Html.DisplayFor(model => model.UrlAlbum)" target="_blank"><img src="@Html.DisplayFor(model => model.UrlAlbum)" width="150" /></a>
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Genre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Genre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cooordinator)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cooordinator)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TracksCount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TracksCount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TrackNames)
+        </dt>
+
+        <dd>
+            @if (Model.TrackNames.Count() > 0)
+            {
+                foreach (var name in Model.TrackNames)
+                {
+                    @name<br />
+                }
+
+            }
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ArtistsCount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ArtistsCount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ArtistNames)
+        </dt>
+
+        <dd>
+            @if (Model.ArtistNames.Count() > 0)
+            {
+                foreach (var name in Model.ArtistNames)
+                {
+                    @name<br />
+                }
+
+            }
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Add track for this album", "addtrack", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
